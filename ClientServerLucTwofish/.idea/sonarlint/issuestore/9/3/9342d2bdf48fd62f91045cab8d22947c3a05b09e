@@ -1,0 +1,27 @@
+
+s	java:S135~"YReduce the total number of break and continue statements in this loop to use at most one.(Êáºışÿÿÿÿ
+t
+java:S2142)"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+’
+java:S11300"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ÕîÏüÿÿÿÿ
+’
+java:S11307"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(–ş—ùÿÿÿÿ
+E
+java:S20939"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+’
+java:S1130N"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ã£á™ùÿÿÿÿ
+E
+java:S2093P"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+=	java:S131Ÿ""Add a default case to this switch.(ë´åİşÿÿÿÿ
+_
+java:S6355À"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133Á"5Do not forget to remove this deprecated code someday.(°¯¤à
+?
+java:S1123Á"(Add the missing @deprecated Javadoc tag.(°¯¤à
+a
+java:S2674Å"JCheck the return value of the "read" call to see how many bytes were read.(ÖÁ»ğ
+H
+java:S1602ë",Remove useless curly braces around statement(ÿ¶ÅŠıÿÿÿÿ
+e
+java:S1612ë"BReplace this lambda with method reference 'downloadFile::runStop'.(ÿ¶ÅŠıÿÿÿÿ8ô¥Ù‰1

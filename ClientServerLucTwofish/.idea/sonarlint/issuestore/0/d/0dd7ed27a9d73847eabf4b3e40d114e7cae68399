@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—ðÀ£
+_
+java:S2674%"JCheck the return value of the "read" call to see how many bytes were read.(ÂÐÔS
+_
+java:S2674."JCheck the return value of the "read" call to see how many bytes were read.(ÂÐÔS
+_
+java:S26741"JCheck the return value of the "read" call to see how many bytes were read.(ÂÐÔS
+T
+java:S11556">Use isEmpty() to check whether the collection is empty or not.(ƒ›ú¤

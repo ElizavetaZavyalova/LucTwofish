@@ -1,0 +1,5 @@
+
+V	java:S110"<This class has 8 parents which is greater than 5 authorized.(‚’ÁÁüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğºÿıÿÿÿÿ
+I
+java:S16022",Remove useless curly braces around statement(†¡ë8Ê©‹‰1

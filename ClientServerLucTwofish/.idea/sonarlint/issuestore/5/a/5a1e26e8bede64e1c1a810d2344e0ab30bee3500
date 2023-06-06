@@ -1,0 +1,14 @@
+
+`
+java:S1192"JDefine a constant instead of duplicating this literal "-READER_" 14 times.(‹ã±¶
+d
+java:S3824ƒ"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(­ðžÎÿÿÿÿÿ
+j
+java:S3824b"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(­ðžÎÿÿÿÿÿ8…Øƒ†‰1
+C	java:S108B")Either remove or fill this block of code.(£´­Òþÿÿÿÿ
+N
+java:S1135…"2Complete the task associated to this TODO comment.(÷ÖÁ¹ùÿÿÿÿ
+L
+java:S1144S"1Remove this unused private "deleteChanel" method.(ëñêÇþÿÿÿÿ
+E
+java:S1144i"*Remove this unused private "block" method.(ÖŠ®”ûÿÿÿÿ

@@ -1,0 +1,3 @@
+In this article we explored the various ways of initializing a Map, particularly to create empty, singleton, immutable and mutable maps. As we can see, there's a huge improvement in this field since Java 9.
+
+As always, the sample source code is located in the Github project. The Java 9 examples are located here, and the Guava sample here.

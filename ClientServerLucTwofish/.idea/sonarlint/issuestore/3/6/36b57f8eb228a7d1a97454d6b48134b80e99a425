@@ -1,0 +1,17 @@
+
+k
+java:S1192"PDefine a constant instead of duplicating this literal "-SQL_EXCEPTION_" 4 times.(òÌŸ‚þÿÿÿÿ
+b
+java:S2095 "GUse try-with-resources or close this "Statement" in a "finally" clause.(‰ø¡úúÿÿÿÿ
+j
+java:S2095F"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ë¡¸¤ûÿÿÿÿ
+]
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(¿ºý¶
+b
+java:S20951"GUse try-with-resources or close this "Statement" in a "finally" clause.(µãÃÚýÿÿÿÿ
+j
+java:S20957"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï®„Êýÿÿÿÿ
+e
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(—ÑÚÁ
+\
+java:S2095U"GUse try-with-resources or close this "Statement" in a "finally" clause.(Òïº

@@ -1,0 +1,24 @@
+
+d
+java:S1192<"NDefine a constant instead of duplicating this literal "_CHANEL_NAME:" 3 times.(³şÌ
+e
+java:S2095d"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(­‰‡È
+d
+java:S20954"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸ô {
+e
+java:S2095L"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¬”¿³
+]
+java:S2095v"GUse try-with-resources or close this "Statement" in a "finally" clause.(‘›µ­
+b
+java:S2095q"GUse try-with-resources or close this "Statement" in a "finally" clause.(£ÙÿÃøÿÿÿÿ
+e
+java:S2095{"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¢™ö°
+\
+java:S2095#"GUse try-with-resources or close this "Statement" in a "finally" clause.(÷ş…
+b
+java:S2095_"GUse try-with-resources or close this "Statement" in a "finally" clause.(¡áÄıÿÿÿÿ
+]
+java:S2095Z"GUse try-with-resources or close this "Statement" in a "finally" clause.(×ğÀã
+P	java:S125P"<This block of commented-out lines of code should be removed.(öüê3
+U
+java:S1144C":Remove this unused private "makeBlobFromByteArray" method.(´’ßÈûÿÿÿÿ

@@ -1,0 +1,12 @@
+
+{
+java:S1192,"_Define a constant instead of duplicating this literal "CANT_CREATE_INFORMATION_SOCKET" 3 times.(¨÷K8ÉÔ—‡‰1
+†
+java:S1488U"iImmediately return this expression instead of assigning it to the temporary variable "clientInputStream".(·¸ ã8Í½†ˆ‰1
+f
+java:S2095L"DUse try-with-resources or close this "Socket" in a "finally" clause.(‹¸í˜øÿÿÿÿ8‘Õ—‡‰1
+Z
+java:S2095#"DUse try-with-resources or close this "Socket" in a "finally" clause.(é›­ş
+_
+java:S20952"DUse try-with-resources or close this "Socket" in a "finally" clause.(‹¸í˜øÿÿÿÿ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(ıºŒè

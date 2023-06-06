@@ -1,0 +1,12 @@
+
+J
+java:S1066u"/Merge this if statement with the enclosing one.(ª¶€’þÿÿÿÿ
+1
+java:S3626^"Remove this redundant jump.(ûÁÝ…
+V
+java:S1612‹":Replace this lambda with method reference 'this::endLoad'.(­Ï«ºøÿÿÿÿ
+R	java:S125›"<This block of commented-out lines of code should be removed.(¯´„Ê
+V
+java:S1612ž":Replace this lambda with method reference 'this::endLoad'.(­Ï«ºøÿÿÿÿ
+M
+java:S1117°"6Rename "id" which hides the field declared at line 41.(—ÊñÖ

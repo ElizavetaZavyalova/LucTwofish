@@ -1,0 +1,24 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ‚ö®ıÿÿÿÿ
+[
+java:S1854"9Remove this useless assignment to local variable "path2".(ë¸Á˜úÿÿÿÿ8†Ö¿‰1
+V
+java:S1854"9Remove this useless assignment to local variable "path1".(¡à8†Ö¿‰1
+N
+java:S1854"8Remove this useless assignment to local variable "path".(ËâûÄ
+W
+java:S1854"<Remove this useless assignment to local variable "settings".(ÍØµøüÿÿÿÿ
+H
+java:S1481"-Remove this unused "settings" local variable.(ÍØµøüÿÿÿÿ
+?
+java:S1481")Remove this unused "path" local variable.(ËâûÄ
+G
+java:S1481"*Remove this unused "path1" local variable.(¡à8ŠÖ¿‰1
+L
+java:S1481"*Remove this unused "path2" local variable.(ë¸Á˜úÿÿÿÿ8ŠÖ¿‰1
+V	java:S125"<This block of commented-out lines of code should be removed.(úÔàüúÿÿÿÿ
+i
+java:S1128"LRemove this unused import 'org.example.Algoritmes.modes.BaseModeEncryption'.(ºŒÔ¿8ö›ä‰1
+e
+java:S1128
+"HRemove this unused import 'org.example.client.client.ClientInputStream'.(óõÍ“8ö›ä‰1

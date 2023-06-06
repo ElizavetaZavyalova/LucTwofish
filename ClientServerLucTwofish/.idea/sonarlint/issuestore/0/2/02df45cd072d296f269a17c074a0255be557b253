@@ -1,0 +1,7 @@
+
+`
+java:S1192,"JDefine a constant instead of duplicating this literal "DOWNLOAD_" 9 times.( ™œ¯
+f
+java:S13019"KReplace this "switch" statement by "if" statements to increase readability.(¸ìù«üÿÿÿÿ
+_
+java:S2674Y"JCheck the return value of the "read" call to see how many bytes were read.(ÓÝ¶c
