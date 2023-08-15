@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ±
+?
+java:S19052")Remove this unnecessary cast to "Object".(¡ôŒ¦
+S
+java:S1117F"8Rename "hash" which hides the field declared at line 18.(ƒĞËİùÿÿÿÿ
+?
+java:S1905Y")Remove this unnecessary cast to "Object".(¡ôŒ¦
